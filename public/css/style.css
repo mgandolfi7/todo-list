@@ -11,7 +11,21 @@
 /* LAYOUT
 /*******************************************/
 
+h1{
+  color: red;
+}
+.completed{
+  color: gray;
+  text-decoration: line-through;
+}
 
+li {
+  list-style: none;
+}
+
+html {
+  text-align: center;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
